@@ -173,7 +173,7 @@ pizza-sales-analysis/
 
 ---
 
-## **👨‍💻 Author**
+## ** Author**
 
 **Jupendra Kumar**
 
