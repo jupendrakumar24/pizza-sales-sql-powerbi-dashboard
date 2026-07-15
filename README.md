@@ -35,7 +35,7 @@ The objective of this project is to help a pizza restaurant understand its busin
 
 ### **Page 1 – Sales Overview**
 
-![Sales Overview](home.png)
+![Sales Overview](Home.png)
 
 ### **Page 2 – Product Performance**
 
